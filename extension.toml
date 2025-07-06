@@ -1,0 +1,11 @@
+[extension]
+id = "codelens"
+name = "CodeLens"
+description = "Provides reference counts for symbols in JavaScript/TypeScript and Python files"
+version = "0.1.0"
+schema_version = 1
+authors = ["Kristian"]
+repository = "https://github.com/kristian/zed_codelens"
+
+[extension.wasm]
+path = "target/wasm32-wasip1/release/zed_codelens.wasm"
