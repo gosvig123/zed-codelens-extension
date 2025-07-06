@@ -5,7 +5,7 @@ description = "Provides reference counts for symbols in JavaScript/TypeScript an
 version = "0.1.0"
 schema_version = 1
 authors = ["Kristian"]
-repository = "https://github.com/kristian/zed_codelens"
+repository = "https://github.com/gosvig123/zed-codelens-extension"
 
 [extension.wasm]
 path = "target/wasm32-wasip1/release/zed_codelens.wasm"
